@@ -1169,6 +1169,6 @@ footer a i {
         font-size: 1rem;
     }
     .contact{
-        grid-template-columns: 2fr;
+        grid-template-columns: 1fr;
     }
 }
